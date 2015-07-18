@@ -1,0 +1,18 @@
+# Syntax coloring map for SerialBuffer
+
+# Datatypes (KEYWORD1)
+SerialBuffer	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+buffer		KEYWORD2
+bufferSize	KEYWORD2
+startMessage	KEYWORD2
+endMessage	KEYWORD2
+messageLength	KEYWORD2
+
+
+# Setup and loop functions (KEYWORD3)
+reset		KEYWORD3
+receive		KEYWORD3
+write		KEYWORD3
+
